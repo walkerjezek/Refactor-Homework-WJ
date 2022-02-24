@@ -20,7 +20,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Modified to just change the seo class  */
 .seo {
     color: #d9dcd6;
 }
@@ -32,7 +32,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* Modifies the li element under headers  */
 .header li {
     list-style-type: none;
     display: inline-block;
@@ -64,7 +64,7 @@ p {
     float: left;
     margin-right: 25px;
 }
-
+/* This class modifies the element so it is on the right side  */
 .float-right {
     float: right;
     margin-left: 25px;
