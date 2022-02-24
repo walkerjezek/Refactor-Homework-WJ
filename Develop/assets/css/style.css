@@ -91,12 +91,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/* Settings for h3 tag under benefits  */
 .benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Settings for images under the benefits class  */
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -111,11 +111,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Modifies the img under content class  */
 .content img {
     max-height: 200px;
 }
-
+/* Modifies h2 tags under content  */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -127,7 +127,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* footer h2 styling  */
 .footer h2 {
     font-size: 20px;
 }
